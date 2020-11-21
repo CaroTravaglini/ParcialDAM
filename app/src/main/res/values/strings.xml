@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ParcialDAM</string>
+    <string name="string_name">Nombre del profesor</string>
+    <string name="string_aprobado">Aprobado</string>
+    <string name="string_desaprobado">Desaprobado</string>
+
+
 </resources>
